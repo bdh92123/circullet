@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.soma.circullet"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "org.soma.circullet"
+        },
+        "cordova-plugin-facebook4": {
+            "APP_ID": "1759784287630890",
+            "APP_NAME": "Circullet",
+            "PACKAGE_NAME": "org.soma.circullet"
+        },
+        "cordova-plugin-app-preferences": {
+            "PACKAGE_NAME": "org.soma.circullet"
+        }
+    },
+    "dependent_plugins": {}
+}
